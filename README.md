@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Arquitetura Flux com Redux
+  Flux Pattern with Redux
 </h3>
 
 <p align="center">
@@ -22,13 +22,13 @@
   <img alt="Frontend" src=".github/rocketShoes.png" width="100%">
 </p>
 
-## 🚀 Instalação e execução
+## 💻 Getting started
 
-1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd rocketShoes`;
-3. Rode `yarn` para instalar as dependências;
-4. Inicie o server rodando `json-server server.json -p 3333`
-5. Rode `yarn start` para iniciar o frontend.
+1. Clone the repository;
+2. Move into the project folder: `cd rocketShoes`;
+3. Run `yarn` to install all the dependencies;
+4. Start the server with the command line: `json-server server.json -p 3333`
+5. Run `yarn start`;
 
 ## 🤝 Contributing
 

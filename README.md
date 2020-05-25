@@ -7,12 +7,12 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirfrost/rocketShoes">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirgrf/rocket-shoes">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirfrost/rocketShoes">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirgrf/rocket-shoes">
 
-  <a href="https://github.com/wladimirfrost/rocketShoes/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirfrost/rocketShoes">
+  <a href="https://github.com/wladimirgrf/rocket-shoes/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirgrf/rocket-shoes">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -25,7 +25,7 @@
 ## 💻 Getting started
 
 1. Clone the repository;
-2. Move into the project folder: `cd rocketShoes`;
+2. Move into the project folder: `cd rocket-shoes`;
 3. Run `yarn` to install all the dependencies;
 4. Start the server with the command line: `json-server server.json -p 3333`
 5. Run `yarn start`;
